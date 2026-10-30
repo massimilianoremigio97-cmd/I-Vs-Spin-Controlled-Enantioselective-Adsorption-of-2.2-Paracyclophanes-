@@ -1,0 +1,2 @@
+# I-Vs-Spin-Controlled-Enantioselective-Adsorption-of-2.2-Paracyclophanes-
+Raw two-terminal IV sweeps (±0.1 V, Autolab PGSTAT101) of Rac-1 monolayers on Au/Ni deposited under north, south or no field, measured under north (N) and south (S) fields. The Python script iv_analysis.py averages sweeps per voltage, computes mean ± SD and the current asymmetry (I_N − I_S)/(I_N + I_S), and exports Excel tables and plots.
